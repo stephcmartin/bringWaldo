@@ -1,0 +1,49 @@
+$icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
+@import '~bootstrap-sass/assets/stylesheets/bootstrap';
+
+p {
+  text-align: center;
+}
+
+#headerwrap {
+	background-color: rgb(30, 163, 221);
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+font-family: 'Bungee Inline', cursive;
+  font-size: 120px;
+}
+
+body{
+  font-family: 'Averia Serif Libre', cursive;
+  text-align: center;
+}
+
+p{
+font-family: 'Averia Serif Libre', cursive;
+  font-size: 18px;
+}
+
+.aboutUs{
+  margin-top: 50px;
+     margin-right: 50px;
+     position:absolute;
+     top:0;
+     right:0;
+}
+
+#sign-out{
+  margin-top: 50px;
+  margin-right: 150px;
+  position:absolute;
+  top:0;
+  right:0;
+}
+
+#changePasswordButton{
+  margin-top: 50px;
+  margin-left: 50px;
+  position:absolute;
+  top:0;
+  left:0;
+}
