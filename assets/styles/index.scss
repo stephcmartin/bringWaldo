@@ -11,7 +11,8 @@ p {
   padding-top: 50px;
   padding-bottom: 50px;
 font-family: 'Bungee Inline', cursive;
-  font-size: 120px;
+  font-size: 130px;
+  color: white;
 }
 
 body{
@@ -46,4 +47,23 @@ font-family: 'Averia Serif Libre', cursive;
   position:absolute;
   top:0;
   left:0;
+}
+
+#footerwrap {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: rgb(10, 79, 97);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+#footerwrap p {
+	color: #f2f2f2;
+	margin-left: 10px;
+  font-size: 12px;
+}
+
+#footerwrap i:hover {
+	color: #1abc9c
 }
